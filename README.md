@@ -15,13 +15,42 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on java,Srping Boot,HTML,CSS,Javascript
+<!-- 访客数统计徽标  -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=Chloe-YYCHEN" alt="访客统计" />
+<div align="left">
+  🔭 I’m currently working on..
+</div>
 
-🌱 I’m currently learning
+&emsp;&emsp;
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+
+<div align="left">
+  💬 I can programe with..
+</div>
+
+&emsp;&emsp;
+![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
 <div align="center">
   <img src="https://metrics.lecoq.io/Chloe-YYCHEN?template=classic&config.timezone=Asia%2FShanghai">
 </div>
+
 <div align="center"> 
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_43247028"> 
-  
+  <img src="https://stats.justsong.cn/api/leetcode/?username=jonespfm&theme=dark"> 
 </div>
+
+<!-- GitHub Activity Graph -->
+<table align="center">
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chloe-YYCHEN&theme=xcode&bg_color=FF000000&hide_border=true" />
+    </td>
+  </tr>
+</table>
