@@ -15,4 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://metrics.lecoq.io/insights?user=https://github.com/Chloe-YYCHEN"> </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div> 
+        <img src="https://metrics.lecoq.io/insights/Chloe-YYCHEN"> 
+    </div>
+</body>
+</html>
