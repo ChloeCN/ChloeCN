@@ -15,18 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 访客数统计徽标  -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=Chloe-YYCHEN" alt="访客统计" />
-<div align="left">
-  🔭 I’m currently working on..
-</div>
+
+🔭 I’m currently working on..
 
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
 
-<div align="left">
-  💬 I can programe with..
-</div>
+💬 I can programe with..
 
 &emsp;&emsp;
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
@@ -37,24 +32,12 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/Chloe-YYCHEN?template=classic&config.timezone=Asia%2FShanghai">
-</div>
-
+<br>
 <div align="center"> 
   <img src="https://stats.justsong.cn/api/csdn?id=weixin_43247028"> 
   <img src="https://stats.justsong.cn/api/leetcode/?username=jonespfm&theme=dark"> 
 </div>
-
-<!-- GitHub Activity Graph -->
-<table align="center">
-  <tr>
-    <td colspan="2">
-      <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Chloe-YYCHEN&theme=xcode&bg_color=FF000000&hide_border=true" />
-    </td>
-  </tr>
-</table>
-
+<br>
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
@@ -66,13 +49,22 @@ Here are some ideas to get you started:
   <img alt="github" src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100" title="github">
   <img alt="node" src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="85" title="node">
 </div>
-
+<br>
+<!-- GitHub奖杯🏆 -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chloe-YYCHEN" />
+  <img  src="https://github-profile-trophy.vercel.app/?username=Chloe-YYCHEN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" />
 </div>
+<br>
 <div align="center">
 <a href="https://github.com/Chloe-YYCHEN/HospitalManageSystem">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chloe-YYCHEN&repo=HospitalManageSystem&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/Chloe-YYCHEN/Chloe-YYCHEN">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chloe-YYCHEN&repo=Chloe-YYCHEN&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
+<br>
+<div align="center">
+  <img src="https://metrics.lecoq.io/Chloe-YYCHEN?template=classic&config.timezone=Asia%2FShanghai">
+</div>
+<br>
+<!-- 访客数统计徽标  -->
+<img src="https://visitor-badge.glitch.me/badge?page_id=Chloe-YYCHEN" alt="访客统计" />
