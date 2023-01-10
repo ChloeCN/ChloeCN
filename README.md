@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div> 
-    <img src="https://metrics.lecoq.io/insights/Chloe-YYCHEN"> 
-</div>
+🔭 I’m currently working on java,Srping Boot,HTML,CSS,Javascript
 
+🌱 I’m currently learning
