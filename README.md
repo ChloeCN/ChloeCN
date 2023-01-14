@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 <!-- Gif -->
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
+  <img alt="css" src="https://media.gip hy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
   <img alt="VSCode" src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100" title="vscode">
   <img alt="python" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="100" title="python">
   <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100" title="javascript">
@@ -57,9 +57,9 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 <a href="https://github.com/Chloe-YYCHEN/HospitalManageSystem">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chloe-YYCHEN&repo=HospitalManageSystem&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chloe-YYCHEN&repo=HospitalManagement-Server&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 <a href="https://github.com/Chloe-YYCHEN/Chloe-YYCHEN">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chloe-YYCHEN&repo=Chloe-YYCHEN&theme=dark&bg_color=0d1117&hide_border=true" /></a>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chloe-YYCHEN&repo=Spring-Boot-Project&theme=dark&bg_color=0d1117&hide_border=true" /></a>
 </div>
 <br>
 <div align="center">
