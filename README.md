@@ -63,6 +63,6 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-  <img src="https://metrics.lecoq.io/Chloe-YYCHEN?template=classic&config.timezone=Asia%2FShanghai">
+<!--   <img src="https://metrics.lecoq.io/Chloe-YYCHEN?template=classic&config.timezone=Asia%2FShanghai"> -->
 </div>
 <br>
